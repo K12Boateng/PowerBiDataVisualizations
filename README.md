@@ -4,6 +4,8 @@
 
 This Power BI visualization provides a comprehensive analysis of the Maji Ndogo water source improvement project. It presents data related to water access, quality metrics, and community engagement, helping stakeholders understand the impact of the project.
 
+![Maji Ndogo](imgs/Maji-Ndogo-img.png)
+
 **Features**
 
 Interactive Dashboard: Explore various visual elements that showcase key performance indicators related to water access and quality.
