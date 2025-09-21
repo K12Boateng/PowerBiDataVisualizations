@@ -101,3 +101,74 @@ The **Customer Analysis Dashboard** highlights:
 - **Sample/Anonymized Data** (for demo purposes)  
 
 
+# 🛒 Supermarket Sales Dashboard  
+
+This project presents an interactive **Power BI dashboard** that provides insights into supermarket sales performance, product categories, and pricing trends. It is designed to help businesses understand sales volume, pricing strategies, and performance against targets.  
+
+---
+
+## Dashboard Overview  
+
+![Supermarket Sales Dashboard](/imgs/SuperMarket-Dashboard.png)  
+
+The **Supermarket Sales Dashboard** highlights:  
+- **Sales Volume**: Quantity sold (kilo) by month and category.  
+- **Revenue & Targets**: Total sales vs. defined sales targets.  
+- **Pricing Insights**: Average wholesale and unit selling prices over time.  
+- **Product Categories**: Analysis across Aqua, Cabbage, Capsicum, Edible Mushroom, Flower/Leaf, and Solanum.  
+- **Time-Based Trends**: Interactive filters for year, quarter, month, and day.  
+
+---
+
+## Key Metrics  
+
+- **Total Quantity Sold**: `470,975.92 kg`  
+- **Total Sales vs Target**: `471K` out of `1M`  
+- **Average Wholesale Price**: `$5.96 RMB/kg`  
+- **Unit Selling Price (RMB/kg) Distribution**:  
+  - Flower/Leaf Vegetables: `$98.18` (29.41%)  
+  - Solanum: `$80.75` (24.19%)  
+  - Others distributed across categories like Capsicum, Edible Mushroom, and Cabbage.  
+
+---
+
+## Features  
+
+- Category filter (Aqua, Cabbage, Capsicum, Edible Mushroom, Flower/Leaf, Solanum).  
+- Time period filtering (year, quarter, month, and custom date range).  
+- Drill-downs by product item and sales month.  
+- Real-time KPIs on sales vs. target and average wholesale prices.  
+- Interactive donut chart for **Unit Selling Price** breakdown.  
+
+---
+
+## How to Use  
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/username/supermarket-sales-dashboard.git
+   ```  
+2. Open the `.pbix` file in **Power BI Desktop**.  
+3. Use the interactive slicers (category, time period, date range) to explore insights.  
+4. Preview screenshots are available in the `/images` folder.  
+
+---
+
+## Business Value  
+
+- Helps track **sales performance** against targets.  
+- Identifies **high-performing categories** and items.  
+- Supports pricing strategy with **wholesale and unit price insights**.  
+- Enables trend analysis across time periods for better forecasting.  
+
+---
+
+## Tools & Technologies  
+
+- **Power BI Desktop** (dashboard design & interactive reporting)  
+- **Power Query** (data transformation and modeling)  
+- **DAX (Data Analysis Expressions)** (for measures and KPIs)  
+- **Sample/Anonymized Data** (for demo purposes)  
+
+
+
