@@ -1,6 +1,7 @@
-# Power BI Data Visualizations Portfolio 
+# Power BI Data Visualizations Portfolio !
+<img src="imgs/powerBi-logo.webp" width="200"/>
 
-> **Welcome to the Power BI Data Visualizations Portfolio** – a showcase of dynamic, interactive dashboards built to transform raw data into actionable insights.  
+**Welcome to my Power BI Data Visualizations Portfolio** – a showcase of dynamic, interactive dashboards built to transform raw data into actionable insights.  
 
 This repository highlights three cutting-edge projects:  
 **Maji Ndogo Water Project Analysis**, **Customer Segmentation Dashboard**, and **Supermarket Sales Performance Tracker**.
@@ -10,12 +11,12 @@ Dive in to explore trends, uncover opportunities, and drive data-informed decisi
 
 ---
 
-## 📌 Why This Portfolio?
+## Why This Portfolio?
 In a world drowning in data, these visualizations cut through the noise – turning complex metrics into compelling stories that empower teams to act with confidence.
 
 ---
 
-## 📁 Project Overview
+## Project Overview
 
 | Project | Focus Area | Key Insights | Demo Image |
 |--------|------------|--------------|-------------|
@@ -27,7 +28,7 @@ In a world drowning in data, these visualizations cut through the noise – turn
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### **Prerequisites**
 - [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free download from Microsoft)
@@ -131,7 +132,7 @@ Track every cart and crate with precision. This dashboard dissects sales velocit
 
 ---
 
-## 🔧 Tools & Technologies
+## Tools & Technologies
 
 | Tool | Role | Why It Rocks |
 |------|------|--------------|
@@ -152,9 +153,9 @@ Track every cart and crate with precision. This dashboard dissects sales velocit
 
 ---
 
-## 📄 License & Attribution
+## License & Attribution
 - **License:** MIT – Free to fork, modify, and deploy.
 - **Data:** Sample/anonymized for demo; replace with your sources.
 - **Images:** Screenshots under CC0 (public domain).
 
-Built with ❤️ by **K12Boateng** | Questions? Open an issue or connect on [LinkedIn](https://www.linkedin.com).
+Built  by **Kwame Boateng** | Questions? Open an issue or connect on [LinkedIn](https://www.linkedin.com).
