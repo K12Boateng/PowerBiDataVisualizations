@@ -1,4 +1,4 @@
-# Power BI Data Visualizations Portfolio
+# Power BI Data Visualizations Portfolio 
 
 > **Welcome to the Power BI Data Visualizations Portfolio** – a showcase of dynamic, interactive dashboards built to transform raw data into actionable insights.  
 
@@ -19,9 +19,10 @@ In a world drowning in data, these visualizations cut through the noise – turn
 
 | Project | Focus Area | Key Insights | Demo Image |
 |--------|------------|--------------|-------------|
-| **Maji Ndogo Water Project** | Water access & community impact | Access metrics, quality trends, regional engagement | ![Maji Ndogo Water Project](../imgs/Maji-Ndogo-img.png) |
-| **Customer Analysis Dashboard** | Demographics & purchasing behavior | Segment profiling, income distribution, review sentiment | ![Customer Analysis Dashboard](../imgs/CustomerAnalysis.png) |
-| **Supermarket Sales Dashboard** | Sales performance & pricing | Volume trends, category breakdowns, target tracking | ![Supermarket Sales Dashboard](../imgs/SuperMarket-Dashboard.png) |
+| **Maji Ndogo Water Project** | Water access & community impact | Access metrics, quality trends, regional engagement | <img src="imgs/Maji-Ndogo-img.png" width="200"/> |
+| **Customer Analysis Dashboard** | Demographics & purchasing behavior | Segment profiling, income distribution, review sentiment | <img src="imgs/CustomerAnalysis.png" width="200"/> |
+| **Supermarket Sales Dashboard** | Sales performance & pricing | Volume trends, category breakdowns, target tracking | <img src="imgs/SuperMarket-Dashboard.png" width="200"/> |
+
 
 
 ---
@@ -52,6 +53,8 @@ cd PowerBiDataVisualizations
 ### **Project Spotlight**
 Empower communities with crystal-clear insights into water access and quality. This dashboard tracks the Maji Ndogo initiative's progress, visualizing everything from borehole installations to contamination risks.
 
+![Maji Ndogo](imgs/Maji-Ndogo-img.png)
+
 ### **Key Metrics**
 | Metric | Value | Insight |
 |--------|-------|---------|
@@ -76,6 +79,8 @@ Empower communities with crystal-clear insights into water access and quality. T
 
 ### **Project Spotlight**
 Unlock the pulse of your customer base. This sleek dashboard segments users by demographics, behaviors, and preferences – perfect for hyper-targeted marketing and personalized strategies.
+
+![Customer Analysis Dashboard](/imgs/CustomerAnalysis.png)  
 
 ### **Key Metrics**
 | Metric | Value | Breakdown |
@@ -102,6 +107,8 @@ Unlock the pulse of your customer base. This sleek dashboard segments users by d
 
 ### **Project Spotlight**
 Track every cart and crate with precision. This dashboard dissects sales velocity, pricing dynamics, and category winners – fueling smarter inventory and pricing decisions.
+
+![Supermarket Sales Dashboard](/imgs/SuperMarket-Dashboard.png)  
 
 ### **Key Metrics**
 | Metric | Value | Trend |
