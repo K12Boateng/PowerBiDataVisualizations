@@ -81,7 +81,7 @@ Empower communities with crystal-clear insights into water access and quality. T
 ### **Project Spotlight**
 Unlock the pulse of your customer base. This sleek dashboard segments users by demographics, behaviors, and preferences – perfect for hyper-targeted marketing and personalized strategies.
 
-![Customer Analysis Dashboard](/imgs/CustomerAnalysis.png)  
+![Customer Analysis Dashboard](/imgs/CustomerAnalysisDashBoard.png)  
 
 ### **Key Metrics**
 | Metric | Value | Breakdown |
